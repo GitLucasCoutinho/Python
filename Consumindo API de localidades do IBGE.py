@@ -4,6 +4,7 @@ import json
 # URL da API de localidades do IBGE (lista de estados)
 url = "https://servicodados.ibge.gov.br/api/v1/localidades/estados"
 
+
 try:
     resposta = requests.get(url)
 
