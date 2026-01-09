@@ -1,4 +1,4 @@
-# 🐍 Roteiro de Estudo de Python (Do Básico ao Avançado)
+# 🐍 Roteiro de Estudo de Python
 
 ## 🔹 Fundamentos Essenciais
 - **Instalação e ambiente**
