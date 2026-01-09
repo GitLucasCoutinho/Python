@@ -1,6 +1,6 @@
 ## ℹ️ Sobre este repositório
 
-Este repositório reúne **scripts antigos em Python (.py)** que foram desenvolvidos há anos como parte dos meus estudos e práticas iniciais.  
+Este repositório reúne **scripts novos e antigos em Python (.py)** que foram desenvolvidos há anos como parte dos meus estudos e práticas iniciais.  
 Eles foram **commitados recentemente** apenas para organização e preservação, por isso as datas de criação no GitHub podem parecer diferentes das datas reais em que os códigos foram escritos.
 
 O objetivo é manter um histórico acessível e transparente dos meus aprendizados em Python, mesmo que os arquivos tenham sido adicionados ao GitHub em datas mais recentes.
