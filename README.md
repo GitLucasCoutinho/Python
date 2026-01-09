@@ -1,5 +1,11 @@
 # 🐍 Roteiro de Estudo de Python
 
+
+[📋 Checklist de Estudos em Python](https://github.com/GitLucasCoutinho/Python/blob/main/Checklist%20de%20Estudos%20em%20Python.md)
+
+
+
+
 ## 🔹 Fundamentos Essenciais
 - **Instalação e ambiente**
   - Instale Python via [site oficial](https://www.python.org).
